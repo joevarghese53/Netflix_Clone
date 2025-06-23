@@ -16,7 +16,7 @@ class Landscapewidget extends StatelessWidget {
           child: SizedBox(
             width: double.infinity,
             height: imgheight,
-            child: Image.asset('NewAndHot.png', fit: BoxFit.cover),
+            child: Image.asset('assets/NewAndHot.png', fit: BoxFit.cover),
           ),
         ),
         Positioned(

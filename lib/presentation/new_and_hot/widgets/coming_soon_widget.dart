@@ -78,7 +78,7 @@ class ComingSoonWidget extends StatelessWidget {
                 'Coming On Friday',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
               ),
-              Image.asset('OnlyOnNetflix.png', width: 40, height: 50),
+              Image.asset('assets/OnlyOnNetflix.png', width: 40, height: 50),
               const Text(
                 'Tall Girl 2',
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),

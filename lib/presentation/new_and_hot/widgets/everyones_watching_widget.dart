@@ -17,7 +17,7 @@ class EveryonesWatchingWidget extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Image.asset('netflixSeries.png', width: 40, height: 50),
+            Image.asset('assets/netflixSeries.png', width: 40, height: 50),
             const Text(
               'Friends',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
