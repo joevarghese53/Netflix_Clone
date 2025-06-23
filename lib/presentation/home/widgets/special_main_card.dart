@@ -21,7 +21,7 @@ class SpecialMainCard extends StatelessWidget {
                 width: 120,
                 decoration: BoxDecoration(
                   image: const DecorationImage(
-                    image: AssetImage('darkDesire.png'),
+                    image: AssetImage('assets/darkDesire.png'),
                     fit: BoxFit.cover,
                   ),
                   borderRadius: kborderrad,

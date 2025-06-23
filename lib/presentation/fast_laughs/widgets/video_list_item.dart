@@ -35,7 +35,7 @@ class VideoListItem extends StatelessWidget {
                   Padding(
                     padding: EdgeInsets.symmetric(vertical: 10),
                     child: CircleAvatar(
-                      backgroundImage: AssetImage('fastLaughs.png'),
+                      backgroundImage: AssetImage('assets/fastLaughs.png'),
                       radius: 30,
                     ),
                   ),
