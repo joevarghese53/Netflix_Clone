@@ -3,9 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "e8b26818ce0b5f501778b39369f5a15f",
+"assets/AssetManifest.bin.json": "9c342d9d57a11c7b0fdc3de501fead1f",
+"assets/AssetManifest.json": "2202a52e0a07d188fbfcccd6e2675549",
+"assets/assets/darkDesire.png": "f6ce87fb58054d3a07f90379a952e4ba",
+"assets/assets/fastLaughs.png": "3377b08a48244c2631cfb7cb02298ec6",
+"assets/assets/mainImage.png": "2c8356c81798b4067a14159f0efb20a2",
+"assets/assets/NetflixLogo.png": "7560ca3c8bccba87c49f4ae13f6c8f0c",
+"assets/assets/netflixSeries.png": "b78cf143a06397f6e7b97d7cad63afca",
+"assets/assets/NewAndHot.png": "1f3a36ed915ccf524811ff09613cdbb7",
+"assets/assets/OnlyOnNetflix.png": "818a0c273b451a693d1089f0c891327b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "fa3d25701a915366022661f992934cb5",
 "assets/NOTICES": "24030108060d8f880afa04446701f37b",
@@ -22,14 +29,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "68401bcfb9ab4585afdac012c37506b4",
+"flutter_bootstrap.js": "c6156bd1710639b76fbd89cabc03d4bc",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "0eca4b8387ce2986671b3234cebeafef",
 "/": "0eca4b8387ce2986671b3234cebeafef",
-"main.dart.js": "7b623483be92bea3ed95dd90c5315941",
+"main.dart.js": "4d47d89a80f1b4714d780c572ae815ce",
 "manifest.json": "6dea9178cc351f740aec010d07343856",
 "version.json": "0617f3fbba59b11307688f269d4f3f2a"};
 // The application shell files that are downloaded before a service worker can
