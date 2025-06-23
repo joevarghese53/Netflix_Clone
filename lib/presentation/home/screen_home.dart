@@ -122,7 +122,7 @@ class ScreenHome extends StatelessWidget {
                               children: [
                                 kwidth,
                                 Image.asset(
-                                  'NetflixLogo.png',
+                                  'assets/NetflixLogo.png',
                                   width: 60,
                                   height: 50,
                                 ),
